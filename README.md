@@ -5,7 +5,7 @@ This project involves an exploratory data analysis of a [world tech layoffs](htt
 
 ## Links:
 ### Data
-- [World Layoffs]
+- [World Layoffs](https://github.com/mkweonn/world-layoffs-data-cleaning-and-analysis/blob/main/world_layoffs.csv)
 ### SQL Queries
 - [Data Cleaning]
 - [Data Exploration]
